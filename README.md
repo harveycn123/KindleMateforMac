@@ -18,7 +18,7 @@ Its legacy version (1.38), which I made nearly 10 years ago, has long been a cla
   https://github.com/Vuizur/Wiktionary-Dictionaries/tree/master
 - Recommended: Bookfere Dictionaries for all languages
   https://en.bookfere.com/dict 
-> Please make sure your proper usage of these resource. We don't provide any downloads or support. You can add dictionary defintions to your Kindle Vocabulary Builder words for learning and exporting to PDF/Anki fiels using KMate for Mac by accessing Dictionaries in the App (shortcut CMD+P)
+> Please make sure your proper usage of these resource. We don't provide any downloads or support. You can add dictionary defintions to your Kindle Vocabulary Builder words for learning and exporting to PDF/Anki/Word/Excel/CSV files using KMate for Mac by accessing Dictionaries in the App (shortcut CMD+P)
 
 ## Kindle Mate(KMate) Website and support
 Check this out, and please feel free to let me know if everything is working well since this is the initial macOS release , any bug, feature request is welcomed and will be appreciated.
