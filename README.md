@@ -1,5 +1,6 @@
 # Kindle Mate for Mac Official (KMate)
-Kindle Mate(KMate) - Manage Kindle clippings/notes and vocabulary words on Mac, supporting directly importing / exporting your notes  from **all-new Paperwhite Colorsoft  and Kindle Scribe without additional USB Transfer tool or other complex efforts**, and Amazon Kindle Read Cloud.
+- Kindle Mate(KMate) - Manage Kindle clippings/notes and vocabulary words on Mac, supporting directly importing / exporting your notes  from **all-new Paperwhite Colorsoft  and Kindle Scribe without additional USB Transfer tool or other complex efforts**, and Amazon Kindle Read Cloud.
+- Unlike existing Klib/Knotes or other clippings-only apps, Kindle Mate(KMate) is the only app that aims to unify your Kindle valuable assets covering highlights,related notes and Vocabulary Builder words as well.
 
 - KMate (formerly Kindle Mate only for Windows) is a newly redesigned mate for Kindle users to manage notes, vocabulary, and knowledge—your ideal companion for deep reading and language learning with Kindle, helping you rediscover the value of your notes and vocabulary.
 Its legacy version (1.38), which I made nearly 10 years ago, has long been a classic global tool for Kindle users to organize notes, learn vocabulary, and manage knowledge. It's a freeware you can download it and free open-sourced dictionary resources here at [my SourceForge page](https://sourceforge.net/projects/kmate/)
